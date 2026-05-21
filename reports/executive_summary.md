@@ -13,7 +13,7 @@ This analysis uses an initial sample of 20 early-career analytics, data, BI, pro
 
 ## Key Findings
 
-1. The most frequently mentioned skill in the sample was **Reporting**, appearing 16 times.
+1. The most frequently mentioned skill in the sample was **Stakeholder Communication**, appearing 18 times.
 
 2. Salary information was disclosed in 11 out of 20 postings, giving a salary disclosure rate of 55.0%.
 
