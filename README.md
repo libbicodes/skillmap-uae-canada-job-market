@@ -166,13 +166,12 @@ The database contains two main tables:
 pip install -r requirements.txt
 ```
 
-4. Run the notebooks in order:
+4. Run the first three notebooks in order:
 
 ```text
 01_data_collection_and_cleaning.ipynb
 02_skill_extraction.ipynb
 03_market_analysis.ipynb
-04_sql_analysis.ipynb
 ```
 
 5. Rebuild the SQLite database:
@@ -181,7 +180,13 @@ pip install -r requirements.txt
 python scripts\load_to_sqlite.py
 ```
 
-6. Open the Power BI file:
+6. Run the SQL analysis notebook:
+
+```text
+04_sql_analysis.ipynb
+```
+
+7. Open the Power BI file:
 
 ```text
 dashboard/skillmap_dashboard.pbix
